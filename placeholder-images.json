@@ -1,0 +1,58 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-landing",
+      "description": "Abstract dark blue background with network lines.",
+      "imageUrl": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0ZWNobm9sb2d5JTIwZGFyayUyMG5ldHdvcmt8ZW58MHx8fHwxNzY4NTI2Mzg4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "technology dark"
+    },
+    {
+      "id": "ad-1",
+      "description": "A stylish watch on a dark background.",
+      "imageUrl": "https://images.unsplash.com/photo-1662528566891-17f74836cebc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8d2F0Y2glMjBwcm9kdWN0fGVufDB8fHx8MTc2NzIzMjQyMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "watch product"
+    },
+    {
+      "id": "ad-2",
+      "description": "A person typing on a laptop with code on the screen.",
+      "imageUrl": "https://images.unsplash.com/photo-1743850765931-4a00e4809a5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZGV2ZWxvcGVyJTIwbWFya2V0aW5nfGVufDB8fHx8MTc2NzIzMjQyMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "developer marketing"
+    },
+    {
+      "id": "ad-3",
+      "description": "High-end headphones on a colorful background.",
+      "imageUrl": "https://images.unsplash.com/photo-1565495055341-8d77d8880fa6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxoZWFkcGhvbmVzJTIwZ2FkZ2V0fGVufDB8fHx8MTc2NzIzMjQyMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "headphones gadget"
+    },
+    {
+      "id": "ad-4",
+      "description": "A collection of organic skincare products.",
+      "imageUrl": "https://images.unsplash.com/photo-1665763630810-e6251bdd392d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxza2luY2FyZSUyMGJlYXV0eXxlbnwwfHx8fDE3NjcyMzI0MjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "skincare beauty"
+    },
+    {
+      "id": "ad-5",
+      "description": "A professional working on a social media marketing campaign dashboard.",
+      "imageUrl": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYXJrZXRpbmclMjBhbmFseXRpY3N8ZW58MHx8fHwxNzY3MjIyNzQ2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "marketing analytics"
+    },
+    {
+      "id": "ad-6",
+      "description": "Artisanal coffee beans being roasted.",
+      "imageUrl": "https://images.unsplash.com/photo-1753709165423-512110ca6c36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjb2ZmZWUlMjBhcnRpc2FufGVufDB8fHx8MTc2NzIzMjQyMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "coffee artisan"
+    },
+    {
+      "id": "ad-7",
+      "description": "A detailed shot of a camera lens.",
+      "imageUrl": "https://images.unsplash.com/photo-1764557359097-f15dd0c0a17b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjYW1lcmElMjBwaG90b2dyYXBoeXxlbnwwfHx8fDE3NjcxOTM2NTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "camera photography"
+    },
+    {
+      "id": "ad-8",
+      "description": "A person designing a website on a large monitor.",
+      "imageUrl": "https://images.unsplash.com/photo-1547658719-da2b51169166?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx3ZWIlMjBkZXNpZ258ZW58MHx8fHwxNzY3MTA2MzM0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "web design"
+    }
+  ]
+}
